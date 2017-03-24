@@ -1,11 +1,5 @@
 {"NimbleChef JSON Tree":
-[{"id":0,"name":"Fried Rice","time":"40 minutes","ingredients":["Rice","Water","Meat"]},
-{"id":1,"name":"Burger","time":"20 minutes","ingredients":["Beef","buns","cheese","lettuce"]},
-{"id":2,"name":"Hot Dog","time":"10 minutes","ingredients":["Pork","buns","mustard","ketchup"]},
-{"id":3,"name":"Chicken Noodle Soup","time":"35 minutes","ingredients":["Noodle","chicken","broth","water","carrots"]},
-{"id":4,"name":"Chicken Nuggets","time":"20 minutes","ingredients":["Chicken","bread crumbs","mustard"]},
-{"id":5,"name":"Taco Chili","time":"120 minutes","ingredients":["Ground beef","tomato sauce","chili beans"]},
-{"id":6,"name":"Chicken Alfredo and Rice Casserole","time":"80 minutes","ingredients":["Rice","milk","alfredo pasta sauce","chicken"]},
-{"id":7,"name":"Mediterranean Shrimp","time":"30 minutes","ingredients":["Linguini","shrimp","mushrooms"]},
-{"id":8,"name":"Spaghetti Meatballs","time":"70 minutes","ingredients":["Meatballs","tomatoe sauce","water","pasta"]},
-{"id":9,"name":"Beef Stir-Fry","time":"25 minutes","ingredients":["Bell peper","beef","soy sauce"]}]}
+[{"name":"Fried Rice","time":"40 minutes","description":"Rice with meat and vegetables."},
+{"name":"Cheese Burger","time":"20 minutes","description":"Buns filled with beef, and cheese."},
+{"name":"Hot Dog","time":"10 minutes","description":"Hot dog buns filled with sausage, ketchu, ..."},
+{"name":"Chicken Noodle Soup","time":"35 minutes","description":"Warm soup with chicken flavor and noodles."}]}
